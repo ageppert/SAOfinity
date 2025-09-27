@@ -1,0 +1,9 @@
+### Footprint positions - created on 2025-09-24T22:23:32-0500 ###
+### Printed by KiCad version 8.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                                           PosX       PosY       Rot  Side
+D1        WS2813C   LED_WS2813_PLCC6_5.0x5.0mm_P1.6mm_Core64_Abg_Mod              105.9682  -140.0251    0.0000  top
+L1        ~         Machine_Ideas_logo                                            114.7182  -139.6901    0.0000  top
+X1        SAO_conn  Badgelife-SAOv169-BADGE-2x3-no-front-text-yes-front-outline   105.9682  -147.5251    0.0000  top
+## End

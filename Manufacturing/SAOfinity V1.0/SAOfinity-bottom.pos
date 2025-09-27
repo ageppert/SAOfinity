@@ -1,0 +1,13 @@
+### Footprint positions - created on 2025-09-24T22:23:32-0500 ###
+### Printed by KiCad version 8.0.8
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                                                PosX       PosY       Rot  Side
+J1        Conn_01x07_Pin     PinHeader_1x07_P2.54mm_Horizontal                  119.4682  -155.1451    0.0000  bottom
+J2        Conn_01x07_Socket  PinSocket_1x07_P2.54mm_Horizontal                   92.4682  -155.1451    0.0000  bottom
+J3        Conn_01x07_Pin     PinHeader_1x07_P2.54mm_Horizontal                   98.3482  -161.0251  -90.0000  bottom
+J4        Conn_01x07_Socket  PinSocket_1x07_P2.54mm_Horizontal                   98.3482  -134.0251  -90.0000  bottom
+J5        Conn_01x02_Pin     PinSocket_1x02_P2.54mm_Vertical                     98.4682  -148.7751    0.0000  bottom
+R1        470                R_0805_2012Metric                                  114.8057  -146.2751    0.0000  bottom
+X2        QWIIC              JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal    98.9682  -140.5251   45.0000  bottom
+## End
